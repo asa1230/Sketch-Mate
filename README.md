@@ -1,9 +1,8 @@
-Sketch Mate
+Sketch 快手
 ===========
 
-These plugins will make you best friends with Sketch.
+快速管理你的画板
 
-## Plugin Directory
 
 #### Artboards
 * Duplicate Artboard `shift` + `⌘` + `D`
