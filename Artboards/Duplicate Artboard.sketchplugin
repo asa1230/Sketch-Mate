@@ -1,8 +1,8 @@
-// Duplicates the current artboard right next to it. (shift command d)
-// If there are other artboards nearby, they will be pushed away.
-// You can have any layer selected, no need to select the artboard before duplication :)
+// 复制当前画板，并在他的右侧生成副本. (快捷键：shift command d)
+// 如果附近有其它画板，空隔开的画板会自动靠齐到老画板
+// 你可以选择任何画板, 不需要选择后再去复制:)
 
-// Make sure an artboard is selected
+// 确定画布是否被选中
 var selectedArtboard = doc.currentPage().currentArtboard();
 doc.currentPage().deselectAllLayers();
 selectedArtboard.setIsSelected(true);
