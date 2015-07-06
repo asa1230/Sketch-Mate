@@ -4,17 +4,17 @@ Sketch 快手
 快速管理你的画板
 
 
-#### Artboards
-* Duplicate Artboard `shift` + `⌘` + `D`
-* Fit Artboard
-* Fit Artboard Height `ctrl` + `shift` + `A`
-* Remove Artboard `⌘` + `⌫`
-* Sort Artboards
+#### 画板
+* 复制画板 `shift` + `⌘` + `D`
+* 适配画板
+* 适配画板到高 `ctrl` + `shift` + `A`
+* 移除画板 `⌘` + `⌫`
+* 归类画板
 
-#### Misc
+#### 其它
 * Replace Layer `⌘` + `⌥` + `R`
 
-#### Smart Align
+#### 智能对齐
 * Smart Align Horizontally `⌘` + `⌥` + `,`
 * Smart Align Vertically `⌘` + `⌥` + `.`
 * Smart Align Bottom `control` + `⌘` + `↓`
